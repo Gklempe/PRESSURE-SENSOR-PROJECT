@@ -115,12 +115,8 @@ raw24=0x3FFAB2   signed=−1298     Vadc=−0.900 mV  Vdiff=−0.681 mV
 
 ## 👤 Author
 
-**[Your Name]**  
+**KLEMPETSANIS GEORGIOS**  
 Electrical & Computer Engineering Student  
 Personal GitHub Projects – Embedded & Analog
 
 ---
-
-## 📜 License
-
-MIT License – feel free to use, modify, and share.
